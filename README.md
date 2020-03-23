@@ -1,4 +1,4 @@
-# student-Classfication_Task
+# Student-Classfication_Task
 Machine learning Applications
 
 I have used the students dataset and applied various machine learning algorithms on it.
